@@ -1,6 +1,6 @@
-Workshop "101 Python Data Sctuctures" 
-for PyLadies Berlin
-by datageekette
+__Workshop "101 Python Data Sctuctures"__
+<br> for PyLadies Berlin </br>
+by __datageekette__
 
 Date: 17.04.18
 
