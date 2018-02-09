@@ -9,8 +9,3 @@ The workshop consists of introduction to:
   - lists 
   - sets
   - dictionaries
-  
-  It covers not only the basic commands but also goes a bit into more advanced topics such as deep copies.
-  
-  
-  
